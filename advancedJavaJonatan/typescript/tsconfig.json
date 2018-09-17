@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es5",           
+    "module": "commonjs",                     
+    "sourceMap": true, 
+    "outDir": "./build",
+    "rootDir": "src", 
+    "strict": true,   
+    "esModuleInterop": true,                  
+    /* Source Map Options */
+    "sourceRoot": "src",
+    "mapRoot": "src",            
+   }
+ }
